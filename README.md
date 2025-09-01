@@ -1,6 +1,5 @@
 # 🌦️ WeatherPro — Advanced Weather App  
 
-![WeatherPro Banner](https://i.ibb.co/4YqX4Cs/weatherpro-banner.png)  
 *A sleek, responsive, and feature-packed weather application built using HTML, CSS, and JavaScript.*  
 
 🔗 **Live Demo** → [WeatherPro](https://adityayadav-dev.github.io/WeatherPro/)  
