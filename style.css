@@ -73,6 +73,7 @@ body{
 
 .search input{
   flex:1;
+      width: 150px;
   height: 54px;
   border-radius: 999px;
   border: 1px solid var(--border);
